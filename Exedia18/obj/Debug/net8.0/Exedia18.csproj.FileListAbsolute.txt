@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.sourcelink.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\bin\Debug\net8.0\Exedia18.exe
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\bin\Debug\net8.0\Exedia18.deps.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\bin\Debug\net8.0\Exedia18.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\bin\Debug\net8.0\Exedia18.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\bin\Debug\net8.0\Exedia18.pdb
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\refint\Exedia18.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.pdb
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\Exedia18.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exedia18\obj\Debug\net8.0\ref\Exedia18.dll
